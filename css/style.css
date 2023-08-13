@@ -259,6 +259,7 @@ header .container nav ul li a {
 }
 .stats .container article.box {
   width: 340px;
+  max-width: 100%;
   padding: 20px 0px;
   margin: 10px 0px;
   text-align: center;
